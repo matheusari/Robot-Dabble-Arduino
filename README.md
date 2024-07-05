@@ -19,6 +19,7 @@ Adriano Rodrigues Lins Júnior, Alessandro Soares, Diego Cassavara e José Cíce
 <h4>⭢ Time de Software:</h4>
 Egner Luiz Porto, Gustavo Tavares Ribeiro, Matheus Ari Ferreira e Vinícius da Silva Oliveira.</p>
 <br>
+
 <h2>Nosso Projeto:</h2>
 <p align="justify">O projeto oficial do nosso robô foi desenvolvido com base no ESP32. Este repositório representa uma versão mais simplificada e acessível, adaptada para Arduino. Se você deseja acessar o repositório do projeto original feito com ESP32, <a href="https://github.com/Vince-64/Dabble-Controlled-ESP32-Car/tree/master" target="_blank">Clique Aqui!</a>
 <br><br>

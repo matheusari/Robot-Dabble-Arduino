@@ -45,3 +45,20 @@ Aqui estão algumas imagens do robô finalizado:
 https://github.com/matheusari/matheusari/assets/114448911/13efaef5-5161-4d5e-aa76-b0c451ca6fcd
   
 </div>
+<br>
+<h2>RoboTEC:</h2>
+<p align="justify">A 1ª RoboTEC da Fatec Jundiaí ocorreu no dia 6 de junho de 2024 e foi um sucesso. Os alunos do 3º semestre formaram a equipe Peter Friends, enquanto os alunos do 4º semestre formaram a equipe Lokidown. A equipe Lokidown foi a vencedora da batalha, mas o principal destaque foi o aprendizado adquirido pelos alunos. Abaixo, é possível ver algumas fotos e vídeos do evento:</p>
+
+<div align="center">
+   <img src="https://github.com/matheusari/matheusari/assets/114448911/aae576fe-5d00-4019-8f88-310c3fd444a9">
+</div>
+
+<div align="center">
+   <img src="https://github.com/matheusari/matheusari/assets/114448911/36d41b13-b224-461d-a4cc-bdd9dbe4cfc6">
+</div>
+
+<div align="center">
+   
+https://github.com/matheusari/matheusari/assets/114448911/2a8191ea-fd67-40ee-8b86-07a8a76c2a0d
+  
+</div>
